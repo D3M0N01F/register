@@ -1,0 +1,17 @@
+{
+    "description": "Demonator",
+    "domain": "owns.it.com",
+    "subdomain": "demonator",
+    
+    "owner": {
+        "repo": "https://github.com/username/repo",
+        "email": ""
+    },
+    
+    "record": {
+        "A": ["1.1.1.1"],
+        "AAAA": ["::1"]
+    },
+    
+    "proxied": false
+}
